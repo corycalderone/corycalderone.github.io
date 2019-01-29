@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+/* 
+#11151C
+#212D40
+#364156
+#7D4E57
+#D66853
+*/
+
+/* #mainNavbar .nav-link:hover {
+    color: 
+} */
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+
+
