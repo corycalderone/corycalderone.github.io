@@ -20,7 +20,8 @@ span {
 }
 
 .top-section {
-    padding: 260px;
+    padding-top: 260px;
+    padding-bottom: 260px;
 }
 
 .bot-section {
