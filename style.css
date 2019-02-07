@@ -18,3 +18,15 @@ span {
 .card-text {
     font-size: 1.1rem;
 }
+
+.top-section {
+    padding: 260px;
+}
+
+.bot-section {
+    padding-top: 260px;
+}
+
+.mid-section {
+    padding-top: 260px;
+}
