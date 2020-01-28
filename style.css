@@ -1,11 +1,17 @@
 body {
-    font-family: 'Muli', sans-serif;
+    background-color: rgb(36, 36, 36);
+    color: rgb(180, 180, 180);
+    font-family: 'Lato', sans-serif;
+    font-style: Light;
+}
+
+hr {
+    margin: 40px 0 40px 0;
 }
 
 .card {
     /* border: none; */
 }
-
 
 p {
     font-size: 1.25rem;
@@ -15,12 +21,13 @@ span {
     color: #397AEB;
 }
 
-.card-text {
+
+/* .card-text {
     font-size: 1.1rem;
 }
 
 .top-section {
-    padding-top: 260px;
+    padding-top: 50px;
     padding-bottom: 260px;
 }
 
@@ -30,4 +37,4 @@ span {
 
 .mid-section {
     padding-top: 260px;
-}
+} */
